@@ -5,7 +5,7 @@ Implementing TDD at work
 
 ## Overview
 
-This 30-minute talk introduces some tips for developers to start doing TDD at work.
+This 30-minute talk introduces some tips for developers to start doing TDD at work. ([PDF](https://github.com/gonzalo-bulnes/implementing-tdd-at-work/raw/master/ITDDAW.pdf))
 
 ## Abstract
 
